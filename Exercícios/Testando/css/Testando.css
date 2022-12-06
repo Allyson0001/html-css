@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+div {
+    border: 5px outset red;
+    background-color: rgb(255, 187, 0);
+    text-align: center;
+}
+a {
+    
+}
