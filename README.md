@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://allyson0001.github.io/html-css/Execícios/Desafio 2"> Executar o exercício testando.
+<a href="https://allyson0001.github.io/html-css/Execícios/Desafio 2"> Executar o exercício Desafio 2.
