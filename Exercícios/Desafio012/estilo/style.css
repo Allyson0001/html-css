@@ -7,7 +7,7 @@
 
 html,body {
     min-height: 100vh;
-    background-color: rgb(194, 130, 35);
+    background-color: darkgray;
 }
 
 header {
@@ -41,15 +41,19 @@ saction {
 }
 
 saction.normal {
-    background-color: white;
+    background-image: linear-gradient(to right, white, blue);
     color: black;
 }
 
 saction.imagem {
-    background-color: brown;
+    background-color: rgb(43, 172, 61);
     color: white;
 }
 
+section.imagem > p {
+    width: 400px;
+    background-color: black;
+}
 footer {
     background-color: black;
     color: white;
