@@ -35,25 +35,24 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 
-saction {
+
+saction > p {
     padding-top: 10vh;
     padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2em;
 }
 
-saction.normal {
+saction > p.normal {
     background-image: linear-gradient(to right, white, blue);
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
-saction.imagem {
-    background-color: rgb(43, 172, 61);
+saction p.imagem {
+    background-color: black;
     color: white;
 }
 
-section.imagem > p {
-    width: 400px;
-    background-color: black;
-}
 footer {
     background-color: black;
     color: white;
